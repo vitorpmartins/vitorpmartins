@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Olá! Me chamo Vitor Martins, <br>tenho 19 anos e eu sempre busco<br>novas experiências e oportunidades <br>a todo momento!<br>🔭 Estudante Instituto Proa<br>👯 Full Stack web Java<br>🤝 Atualmente estou aprendendo React<br>💬 https://www.linkedin.com/in/vitor-pereira-martins-aa0085225/ <br>⚡ Eu gosto mexer com hardware <br><dev | Vitor Martins>
+🌱 Olá! Me chamo Vitor Martins, <br>tenho 19 anos e eu sempre busco novas experiências e oportunidades a todo momento! 🔭 Estudante Instituto Proa<br>👯 Full Stack web Java<br>🤝 Atualmente estou aprendendo React<br>💬 https://www.linkedin.com/in/vitor-pereira-martins-aa0085225/ <br>⚡ Eu gosto mexer com hardware <br><dev | Vitor Martins>
 
 
 ## 🌐 Socials:
